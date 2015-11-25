@@ -13,7 +13,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Windows Evidence Collection](#windows-evidence-collection)
 - [Other tools](#other-tools)
 - [Videos](#videos)
-- [Books](#books)
+
 
 ## IR tools Collection
 
@@ -75,6 +75,3 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Videos
 * [Demisto IR video resources](https://www.demisto.com/category/videos/) - Video Resources for Incident Response and Forensics Tools
 * [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
-
-### Books
- * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR 
