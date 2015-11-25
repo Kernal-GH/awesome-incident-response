@@ -11,6 +11,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [All in one tools](#all-in-one-tools)
 - [Incident Management](#incident-management)
 - [Windows Evidence Collection](#windows-evidence-collection)
+- [OSX Evidence Collection](#osx-evidence-collection)
 - [Other tools](#other-tools)
 - [Videos](#videos)
 
@@ -66,6 +67,9 @@ A curated list of tools and resources for security incident response, aimed to h
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - FastIR Collector is a tool that collects different artefacts on live Windows systems and records the results in csv files. With the analyses of these artefacts, an early compromise can be detected.
 * [DumpIt](http://www.moonsols.com/resources/) - DumpIt is used to generate a physical memory dump of Windows machines. It works with both x86 (32-bits) and x64 (64-bits) machines.
 * [AChoir](https://github.com/OMENScan/AChoir) - Achoir is a framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
+
+### OSX Evidence Collection
+* [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
 
 ### Other Tools
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
